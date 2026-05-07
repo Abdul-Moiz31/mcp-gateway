@@ -27,11 +27,9 @@ go.work
 go.work.sum
 
 # env file
-.env
 
 # Editor/IDE
 .idea/
-.vscode/
 
 .specstory
 .cursorindexingignore
@@ -49,3 +47,8 @@ docs/plans/
 catalog/mcp-gateway-catalog/
 catalog/mcp-gateway-catalog.Dockerfile
 tests/perf/mock-server/mock-server
+config.bat
+node_modules
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
